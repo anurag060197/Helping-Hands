@@ -1,0 +1,17 @@
+#home{
+    font-family: cursive;
+    font-size: larger;
+}
+b{
+    font-size: larger;
+}
+.btn-custom{
+    border-radius: 5px;
+}
+#logo{
+    width : 2.5rem;
+    height : 2.5rem;
+}
+.trans{
+    background: transparent;
+}
